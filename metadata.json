@@ -1,0 +1,8 @@
+{
+  "name": "Santander Premium AI",
+  "description": "A next-generation banking experience with integrated AI financial advisory, real-time spending insights, and seamless PIX management.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
